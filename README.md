@@ -1,4 +1,6 @@
 # Matheus
 Portfólio Pessoal 
 
-Olá, me chamão de o tardão do civic13
+Olá, me chamo Matheus.
+
+Esse é um pequeno projeto para testar minhas habilidades de programação
